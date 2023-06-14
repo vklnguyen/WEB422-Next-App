@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Layout from '@/components/Layout';
+import Layout from '@/components/LayOut';
 import { SWRConfig } from 'swr';
 
 export default function App({ Component, pageProps }) {
